@@ -7,6 +7,6 @@ def main():
     prime_status="prime" if isprime(num) else "not prime"
     print ("(num) is (prime_status).")
     time.sleep(10)
-    if _name_="_main_":
+    if _name_=="_main_":
     main()
     
